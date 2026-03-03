@@ -1,0 +1,5 @@
+echo "estudo_rax" >> .gitignore
+echo "estudo_rax_zig_safe" >> .gitignore
+echo "estudo_zig_rax" >> .gitignore
+echo "estudo_rax" >> .gitignore
+echo "*.o" >> .gitignore
